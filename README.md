@@ -3,6 +3,7 @@
 ## 📋 Tabla de Contenidos
 
 - [🎯 Descripción General](#-descripción-general)
+- [📋 Infome](#-informe)
 - [🎥 Video Explicativo](#-video-explicativo)
 - [🏗️ Arquitectura del Sistema](#️-arquitectura-del-sistema)
 - [📚 Algoritmos Implementados](#-algoritmos-implementados)
@@ -15,17 +16,14 @@
 
 Este proyecto implementa un **simulador completo del algoritmo MLFQ (Multi-Level Feedback Queue)**, uno de los algoritmos de planificación de procesos más sofisticados utilizados en sistemas operativos modernos. El simulador permite analizar y comparar diferentes configuraciones de planificación de CPU con múltiples niveles de prioridad.
 
+## 📋 Informe
+
+[Informe](https://github.com/JoshuaMendez/SistemasOperativosParcial1/blob/main/Informe.pdf)
+
+
 ## 🎥 Video Explicativo
 
-### 📺 Tutorial Completo del Proyecto
-
-[![Video Explicativo MLFQ]](https://youtube.com/watch?v=PLACEHOLDER)
-
-
-**Duración estimada**: 5 minutos  
-**Idioma**: Español  
-**Nivel**: Principiante - Intermedio
-
+[Video Explicativo MLFQ](https://drive.google.com/drive/folders/1FDYuvCPCB0rcTdBAzkLg7mticWPg6bkM?usp=sharing)
 
 ### ✨ Características Principales
 
